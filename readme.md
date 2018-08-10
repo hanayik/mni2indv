@@ -4,6 +4,7 @@ In some cases it's beneficial to define landmarks within a template (a single op
 
 ## Requirements
 
+- Landmarks must be in a tab delimited .anat file (created with [MRIcron](https://github.com/neurolabusc/MRIcron))
 - FSL must be installed
 - Uses bet, flirt, img2imgcoord
 - Must supply .anat file (produced from MRIcron) and the image the .anat file landmarks were defined in
