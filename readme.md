@@ -4,7 +4,7 @@
 
 #### Citation
 
-Hanayik, T. (2018). mni2indv (Version 0.1.1) [Software]. Available from https://zenodo.org/badge/latestdoi/144298465.
+Taylor Hanayik. (2018, August 10). hanayik/mni2indv: mni2indv v0.1.1 (Version 0.1.1). Zenodo. http://doi.org/10.5281/zenodo.1343556
 
 In some cases it's beneficial to define landmarks within a template (a single operation). Then, we might want to define those landmarks in many different individual subjects. Rather than starting from scratch, this code makes the process much faster, but requires fine tuning the landmarks once they are created in subject space.
 
