@@ -10,6 +10,12 @@ In some cases it's beneficial to define landmarks within a template (a single op
 - Must supply .anat file (produced from MRIcron) and the image the .anat file landmarks were defined in
 - Must also supply a subject's T1w image to translate the landmarks to
 
+## Example use:
+
+```python mni2indv.py -anatfile mni152.anat -refimg T1_indv.nii -inimg mni152.nii ```
+
+The process can also be batched. See [run_batch.py](https://github.com/hanayik/mni2indv/blob/master/run_batch.py) for an example. Modify to suit your needs
+
 ## TODO
 
 - clean up code
