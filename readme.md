@@ -1,6 +1,6 @@
 # Introduction
 
-Reference: [![DOI](https://zenodo.org/badge/144298465.svg)](https://zenodo.org/badge/latestdoi/144298465)
+[![DOI](https://zenodo.org/badge/144298465.svg)](https://zenodo.org/badge/latestdoi/144298465)
 
 In some cases it's beneficial to define landmarks within a template (a single operation). Then, we might want to define those landmarks in many different individual subjects. Rather than starting from scratch, this code makes the process much faster, but requires fine tuning the landmarks once they are created in subject space.
 
